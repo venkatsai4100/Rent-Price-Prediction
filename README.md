@@ -1,7 +1,7 @@
 
 ---
 
-## 📌 3. Rent Price Prediction
+Rent Price Prediction
 
 ```md
 # 🏠 Rent Price Prediction
